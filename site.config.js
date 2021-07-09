@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'Tiger26199756',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
 
